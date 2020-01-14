@@ -26,7 +26,18 @@ image: /assets/img/blog/hydejack-8.png
 主要是記錄一些生活雜記,學習紀錄
 
 
-{:.lead}
+## About Me
+
+![](/assets/img/About/me.jpg)
+**Name:**<BR>
+沈威呈(Bruce Shen)<BR>
+ 
+**Country:**<BR>
+Taichung, Taiwan(R.O.C)<BR>
+ 
+**Birth:**<BR>
+1994/07<BR>
+
 
 
 ## Education
