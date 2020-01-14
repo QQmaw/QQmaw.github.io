@@ -28,7 +28,7 @@ image: /assets/img/blog/hydejack-8.png
 
 ## About Me
 
-![](/assets/img/About/me.jpg)
+![](/assets/img/me.jpg)<BR>
 **Name:**<BR>
 沈威呈(Bruce Shen)<BR>
  
