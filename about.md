@@ -42,14 +42,14 @@ image: /assets/img/blog/hydejack-8.png
 
 ## Experience
 
-**Feb 2018 – Present AIDC Computer Science Engineer**
-漢翔航空工業股份有限公司，資訊處經營資訊組-資訊工程師。
+**Feb 2018 – Present AIDC Computer Science Engineer**<BR>
+漢翔航空工業股份有限公司，資訊處經營資訊組-資訊工程師。<BR>
 
 
 ## Special Experience
 
-**Sep 2018 - Jan 2019 AIA**
-人工智慧學校台中分校，技術領袖班第一期。
+**Sep 2018 - Jan 2019 AIA**<BR>
+人工智慧學校台中分校，技術領袖班第一期。<BR>
 
 
 <!-- 
