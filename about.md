@@ -33,7 +33,7 @@ image: /assets/img/blog/hydejack-8.png
 
 **Feb 2018 – Present**<BR>
 國立交通大學，電資學院學分班。<BR>
-![](/assets/img/About/NCTU.png)
+![](/assets/img/About/NCTU2.png)
 
 **Sep 2012 – Jan 2017**<BR>
 國立臺灣科技大學，主修資工系。<BR>
