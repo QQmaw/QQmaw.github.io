@@ -33,24 +33,24 @@ image: /assets/img/blog/hydejack-8.png
 
 **Feb 2018 – Present**<BR>
 國立交通大學，電資學院學分班。<BR>
-
+![](/assets/img/About/NCTU.png)
 
 **Sep 2012 – Jan 2017**<BR>
 國立臺灣科技大學，主修資工系。<BR>
-
+![](/assets/img/About/NTUST_CS.png)<BR>
 
 
 ## Experience
 
 **Feb 2018 – Present AIDC Computer Science Engineer**<BR>
 漢翔航空工業股份有限公司，資訊處經營資訊組-資訊工程師。<BR>
-
+![](/assets/img/About/AIDC.jpeg)<BR>
 
 ## Special Experience
 
 **Sep 2018 - Jan 2019 AIA**<BR>
 人工智慧學校台中分校，技術領袖班第一期。<BR>
-
+![](/assets/img/About/AIA.png)<BR>
 
 <!-- 
 code block
